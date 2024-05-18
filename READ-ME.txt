@@ -1,4 +1,4 @@
-  =>  Template Name    : MEDINOVA - Hospital Website Template
+  =>  Template Name    : Chennai TAM Medical Demo - Hospital Website Template
 
   =>  Template Link    : https://htmlcodex.com/hospital-website-template
 
