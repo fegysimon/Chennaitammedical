@@ -102,7 +102,6 @@
     
 })(jQuery);
 
-<script    
 (function (g, e, n, es, ys) {
     g['_genesysJs'] = e;
     g[e] = g[e] || function () {
@@ -116,5 +115,4 @@
     deploymentId: '4db237b8-a4bd-4901-bc57-951eb279d39d',
      debug: 'true'
   });
-</script>
 
